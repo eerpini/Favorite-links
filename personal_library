@@ -60,3 +60,5 @@ http://qrng.physik.hu-berlin.de/ - Quantum Random number generator based on the 
 Sat Jan 22 13:07:44 EST 2011
 
 VIM Cheatsheet : http://www.worldtimzone.com/res/vi.html
+http://www.vim.org/scripts/script.php?script_id=2607 - TODO type task management plugin for vim
+http://www.vim.org/scripts/script.php?script_id=159 - Buffer explorer plugin for VIM with tab support.
