@@ -1,0 +1,62 @@
+
+
+Wed Nov 17 21:05:51 EST 2010
+
+http://lwn.net/Articles/240474/ - CFS(Completely Fair Scheduler) Group Scheduling
+http://lwn.net/SubscriberLink/415740/0f1a29198bcc0abf/ - TTY-based group scheduling
+http://lwn.net/Articles/236038/ - Process Containers
+
+
+IMPORTANT READS : http://hpcwire.com 
+
+IMPORTANT READS : Blue waters supercomputer project
+
+IMPORTANT READS : Unified Parallel C, <Does anything similar exist in other languages, like python ??>
+
+http://upc.lbl.gov/ - Unified Parallel C Project at UCB 
+http://www.sorting-algorithms.com/ - Animations of Sorting Algorithms  **
+http://www.ibm.com/developerworks/linux/library/l-memory/ - Inside memory management
+http://www.geekzone.co.nz/blog.asp?postid=6229#compact - How to write a Linux virus in 5 easy steps
+http://www.infoq.com/interviews/functional-langs - Scala, Erlang, F# creators discuss functional languages
+
+IMPORTANT READS : http://www.infoq.com - Tracking change and innovation in the enterprise software development community
+
+Sat Nov 20 05:23:34 EST 2010
+
+http://www.blackducksoftware.com/oss/projects#language - Analysis of Open Source Projects for the cloud **
+http://simonwillison.net/static/2010/redis-tutorial/ - Redis Tutorial (comprehensive with most commands and use cases)
+
+Sun Nov 21 15:38:50 EST 2010
+
+http://cacm.acm.org/magazines/2010/2/69352-recent-progress-in-quantum-algorithms/fulltext# - Recent Progress in Quantum Algorithms
+
+BLOGS ON COMPLEXITY THEORY
+http://www.scottaaronson.com/blog/ - The Blog of Scott Aaronson (Quantum computers are not known to be able to solve NP-complete problems in polynomial time)
+http://blog.computationalcomplexity.org/
+http://terrytao.wordpress.com/ - blog by Terence Tao
+
+http://www.scientificamerican.com/article.cfm?id=first-commercial-quantum-computer - First commercial quantum computer solves sudoku puzzles
+
+
+Thu Nov 25 20:21:48 EST 2010
+
+http://search13.frontier.com/assist.php?url=www.gmail.org - Is Complexity Theory on the Brink ?
+
+
+Fri Nov 26 14:42:30 EST 2010
+
+http://www.nature.com/news/2009/090506/full/459024a.html - Protein structures : Structures of desire **
+
+http://www.nature.com/news/2008/080730/full/454565a.html - HIV: The next shot (talks about the failure of the latest attempt for the HIV vaccine and the contemplations by the team lead) **
+
+http://cacm.acm.org/magazines/2010/12/102133-science-has-four-legs/fulltext - Science has Four Legs(Interesting Discussion on the fundamentals on science in response to the Communications ACM Sept 2010 issue article "Science Has Only Two Legs") **
+
+
+Sat Nov 27 22:20:42 EST 2010
+
+http://qrng.physik.hu-berlin.de/ - Quantum Random number generator based on the quantum arrival times of photons
+
+
+Sat Jan 22 13:07:44 EST 2011
+
+VIM Cheatsheet : http://www.worldtimzone.com/res/vi.html
